@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url('../assets/font/Poppins.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}
+@font-face {
+  font-family: 'OpenSans';
+  src: url('../assets/font/OpenSans.woff2') format('woff2');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 300 800;
+}
